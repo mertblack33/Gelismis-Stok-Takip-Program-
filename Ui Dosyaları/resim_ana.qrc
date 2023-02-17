@@ -1,0 +1,26 @@
+<RCC>
+  <qresource prefix="self">
+    <file>Stok/in-stock (1).png</file>
+    <file>Stok/wheelbarrow.png</file>
+    <file>Stok/stock.png</file>
+    <file>Stok/warehouse (1).png</file>
+    <file>Stok/welcome (1).png</file>
+    <file>Stok/welcome.png</file>
+    <file>Stok/man (1).png</file>
+    <file>Stok/man.png</file>
+    <file>Stok/exit.png</file>
+    <file>Stok/inventory.png</file>
+    <file>Stok/in-stock.png</file>
+    <file>Stok/warehouse.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>Stok/speaker.png</file>
+    <file>Stok/mail.png</file>
+    <file>Stok/work-process.png</file>
+    <file>Stok/search.png</file>
+    <file>Stok/trash.png</file>
+    <file>Stok/note.png</file>
+    <file>Stok/printer.png</file>
+    <file>Stok/excel.png</file>
+  </qresource>
+</RCC>
